@@ -1,0 +1,5 @@
+C:\SoftUni\Advanced C#\HomeWork\4.Strings And Text Processing\Strings And Text Processing\07.Letters Change Numbers\bin\Debug\07.Letters Change Numbers.exe.config
+C:\SoftUni\Advanced C#\HomeWork\4.Strings And Text Processing\Strings And Text Processing\07.Letters Change Numbers\bin\Debug\07.Letters Change Numbers.exe
+C:\SoftUni\Advanced C#\HomeWork\4.Strings And Text Processing\Strings And Text Processing\07.Letters Change Numbers\bin\Debug\07.Letters Change Numbers.pdb
+C:\SoftUni\Advanced C#\HomeWork\4.Strings And Text Processing\Strings And Text Processing\07.Letters Change Numbers\obj\Debug\07.Letters Change Numbers.exe
+C:\SoftUni\Advanced C#\HomeWork\4.Strings And Text Processing\Strings And Text Processing\07.Letters Change Numbers\obj\Debug\07.Letters Change Numbers.pdb

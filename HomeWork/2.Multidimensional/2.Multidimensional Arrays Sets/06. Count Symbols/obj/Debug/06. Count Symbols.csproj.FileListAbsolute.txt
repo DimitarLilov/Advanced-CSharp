@@ -1,0 +1,5 @@
+D:\SoftUni\Advanced C#\HomeWork\2.Multidimensional Arrays Sets Dictionaries\2.Multidimensional Arrays Sets\06. Count Symbols\bin\Debug\_06.Count_Symbols.exe.config
+D:\SoftUni\Advanced C#\HomeWork\2.Multidimensional Arrays Sets Dictionaries\2.Multidimensional Arrays Sets\06. Count Symbols\bin\Debug\_06.Count_Symbols.exe
+D:\SoftUni\Advanced C#\HomeWork\2.Multidimensional Arrays Sets Dictionaries\2.Multidimensional Arrays Sets\06. Count Symbols\bin\Debug\_06.Count_Symbols.pdb
+D:\SoftUni\Advanced C#\HomeWork\2.Multidimensional Arrays Sets Dictionaries\2.Multidimensional Arrays Sets\06. Count Symbols\obj\Debug\_06.Count_Symbols.exe
+D:\SoftUni\Advanced C#\HomeWork\2.Multidimensional Arrays Sets Dictionaries\2.Multidimensional Arrays Sets\06. Count Symbols\obj\Debug\_06.Count_Symbols.pdb

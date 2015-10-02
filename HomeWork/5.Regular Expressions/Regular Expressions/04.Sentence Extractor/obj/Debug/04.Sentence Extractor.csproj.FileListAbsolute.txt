@@ -1,0 +1,5 @@
+C:\SoftUni\Advanced C#\HomeWork\5.Regular Expressions\Regular Expressions\04.Sentence Extractor\bin\Debug\04.Sentence Extractor.exe.config
+C:\SoftUni\Advanced C#\HomeWork\5.Regular Expressions\Regular Expressions\04.Sentence Extractor\bin\Debug\04.Sentence Extractor.exe
+C:\SoftUni\Advanced C#\HomeWork\5.Regular Expressions\Regular Expressions\04.Sentence Extractor\bin\Debug\04.Sentence Extractor.pdb
+C:\SoftUni\Advanced C#\HomeWork\5.Regular Expressions\Regular Expressions\04.Sentence Extractor\obj\Debug\04.Sentence Extractor.exe
+C:\SoftUni\Advanced C#\HomeWork\5.Regular Expressions\Regular Expressions\04.Sentence Extractor\obj\Debug\04.Sentence Extractor.pdb

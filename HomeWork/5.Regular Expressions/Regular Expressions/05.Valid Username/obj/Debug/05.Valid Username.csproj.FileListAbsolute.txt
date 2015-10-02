@@ -1,0 +1,1 @@
+C:\SoftUni\Advanced C#\HomeWork\5.Regular Expressions\Regular Expressions\05.Valid Username\bin\Debug\05.Valid Username.exe.config

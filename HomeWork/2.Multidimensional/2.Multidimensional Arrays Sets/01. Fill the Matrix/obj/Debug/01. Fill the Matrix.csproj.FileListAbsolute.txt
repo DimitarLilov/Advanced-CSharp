@@ -1,0 +1,15 @@
+D:\SoftUni\Advanced C#\HomeWork\2.Multidimensional Arrays Sets Dictionaries\2.Multidimensiona lArrays Sets\01. Fill the Matrix\bin\Debug\_01.Fill_the_Matrix.exe.config
+D:\SoftUni\Advanced C#\HomeWork\2.Multidimensional Arrays Sets Dictionaries\2.Multidimensiona lArrays Sets\01. Fill the Matrix\obj\Debug\01. Fill the Matrix.csprojResolveAssemblyReference.cache
+D:\SoftUni\Advanced C#\HomeWork\2.Multidimensional Arrays Sets Dictionaries\2.Multidimensiona lArrays Sets\01. Fill the Matrix\bin\Debug\_01.Fill_the_Matrix.exe
+D:\SoftUni\Advanced C#\HomeWork\2.Multidimensional Arrays Sets Dictionaries\2.Multidimensiona lArrays Sets\01. Fill the Matrix\bin\Debug\_01.Fill_the_Matrix.pdb
+D:\SoftUni\Advanced C#\HomeWork\2.Multidimensional Arrays Sets Dictionaries\2.Multidimensiona lArrays Sets\01. Fill the Matrix\obj\Debug\_01.Fill_the_Matrix.exe
+D:\SoftUni\Advanced C#\HomeWork\2.Multidimensional Arrays Sets Dictionaries\2.Multidimensiona lArrays Sets\01. Fill the Matrix\obj\Debug\_01.Fill_the_Matrix.pdb
+D:\SoftUni\Advanced C#\HomeWork\2.Multidimensional Arrays Sets Dictionaries\2.Multidimensional Arrays Sets\01. Fill the Matrix\bin\Debug\_01.Fill_the_Matrix.exe.config
+D:\SoftUni\Advanced C#\HomeWork\2.Multidimensional Arrays Sets Dictionaries\2.Multidimensional Arrays Sets\01. Fill the Matrix\obj\Debug\_01.Fill_the_Matrix.exe
+D:\SoftUni\Advanced C#\HomeWork\2.Multidimensional Arrays Sets Dictionaries\2.Multidimensional Arrays Sets\01. Fill the Matrix\obj\Debug\_01.Fill_the_Matrix.pdb
+D:\SoftUni\Advanced C#\HomeWork\2.Multidimensional Arrays Sets Dictionaries\2.Multidimensional Arrays Sets\01. Fill the Matrix\bin\Debug\_01.Fill_the_Matrix.exe
+D:\SoftUni\Advanced C#\HomeWork\2.Multidimensional Arrays Sets Dictionaries\2.Multidimensional Arrays Sets\01. Fill the Matrix\bin\Debug\_01.Fill_the_Matrix.pdb
+D:\SoftUni\Advanced C#\HomeWork\2.Multidimensional Arrays Sets Dictionaries\2.Multidimensional Arrays Sets\01. Fill the Matrix\obj\Debug\01. Fill the Matrix.csprojResolveAssemblyReference.cache
+C:\SoftUni\Advanced C#\HomeWork\2.Multidimensional\2.Multidimensional Arrays Sets\01. Fill the Matrix\bin\Debug\_01.Fill_the_Matrix.exe.config
+C:\SoftUni\Advanced C#\HomeWork\2.Multidimensional\2.Multidimensional Arrays Sets\01. Fill the Matrix\obj\Debug\_01.Fill_the_Matrix.exe
+C:\SoftUni\Advanced C#\HomeWork\2.Multidimensional\2.Multidimensional Arrays Sets\01. Fill the Matrix\obj\Debug\_01.Fill_the_Matrix.pdb

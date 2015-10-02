@@ -1,0 +1,9 @@
+C:\Users\Dimitar\Documents\SoftUni\Fundamental Level\Advanced C#\HomeWork\1. Advanced CSharp Arrays Lists-Stacks Queues\ArraysListsStacks\06. Subset Sums\bin\Debug\_06.Subset_Sums.exe.config
+C:\Users\Dimitar\Documents\SoftUni\Fundamental Level\Advanced C#\HomeWork\1. Advanced CSharp Arrays Lists-Stacks Queues\ArraysListsStacks\06. Subset Sums\bin\Debug\_06.Subset_Sums.exe
+C:\Users\Dimitar\Documents\SoftUni\Fundamental Level\Advanced C#\HomeWork\1. Advanced CSharp Arrays Lists-Stacks Queues\ArraysListsStacks\06. Subset Sums\bin\Debug\_06.Subset_Sums.pdb
+C:\Users\Dimitar\Documents\SoftUni\Fundamental Level\Advanced C#\HomeWork\1. Advanced CSharp Arrays Lists-Stacks Queues\ArraysListsStacks\06. Subset Sums\obj\Debug\06. Subset Sums.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\SoftUni\Fundamental Level\Advanced C#\HomeWork\1. Advanced CSharp Arrays Lists-Stacks Queues\ArraysListsStacks\06. Subset Sums\obj\Debug\_06.Subset_Sums.exe
+C:\Users\Dimitar\Documents\SoftUni\Fundamental Level\Advanced C#\HomeWork\1. Advanced CSharp Arrays Lists-Stacks Queues\ArraysListsStacks\06. Subset Sums\obj\Debug\_06.Subset_Sums.pdb
+C:\SoftUni\Advanced C#\HomeWork\1.Arrays Lists-Stacks Queues\ArraysListsStacks\06. Subset Sums\bin\Debug\_06.Subset_Sums.exe.config
+C:\SoftUni\Advanced C#\HomeWork\1.Arrays Lists-Stacks Queues\ArraysListsStacks\06. Subset Sums\obj\Debug\_06.Subset_Sums.exe
+C:\SoftUni\Advanced C#\HomeWork\1.Arrays Lists-Stacks Queues\ArraysListsStacks\06. Subset Sums\obj\Debug\_06.Subset_Sums.pdb

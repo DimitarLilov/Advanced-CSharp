@@ -1,0 +1,15 @@
+D:\SoftUni\Advanced C#\HomeWork\2.Multidimensional Arrays Sets Dictionaries\2.Multidimensiona lArrays Sets\03.Matrix shuffling\bin\Debug\03.Matrix shuffling.exe.config
+D:\SoftUni\Advanced C#\HomeWork\2.Multidimensional Arrays Sets Dictionaries\2.Multidimensiona lArrays Sets\03.Matrix shuffling\bin\Debug\03.Matrix shuffling.exe
+D:\SoftUni\Advanced C#\HomeWork\2.Multidimensional Arrays Sets Dictionaries\2.Multidimensiona lArrays Sets\03.Matrix shuffling\bin\Debug\03.Matrix shuffling.pdb
+D:\SoftUni\Advanced C#\HomeWork\2.Multidimensional Arrays Sets Dictionaries\2.Multidimensiona lArrays Sets\03.Matrix shuffling\obj\Debug\03.Matrix shuffling.csprojResolveAssemblyReference.cache
+D:\SoftUni\Advanced C#\HomeWork\2.Multidimensional Arrays Sets Dictionaries\2.Multidimensiona lArrays Sets\03.Matrix shuffling\obj\Debug\03.Matrix shuffling.exe
+D:\SoftUni\Advanced C#\HomeWork\2.Multidimensional Arrays Sets Dictionaries\2.Multidimensiona lArrays Sets\03.Matrix shuffling\obj\Debug\03.Matrix shuffling.pdb
+D:\SoftUni\Advanced C#\HomeWork\2.Multidimensional Arrays Sets Dictionaries\2.Multidimensional Arrays Sets\03.Matrix shuffling\bin\Debug\03.Matrix shuffling.exe.config
+D:\SoftUni\Advanced C#\HomeWork\2.Multidimensional Arrays Sets Dictionaries\2.Multidimensional Arrays Sets\03.Matrix shuffling\obj\Debug\03.Matrix shuffling.exe
+D:\SoftUni\Advanced C#\HomeWork\2.Multidimensional Arrays Sets Dictionaries\2.Multidimensional Arrays Sets\03.Matrix shuffling\obj\Debug\03.Matrix shuffling.pdb
+D:\SoftUni\Advanced C#\HomeWork\2.Multidimensional Arrays Sets Dictionaries\2.Multidimensional Arrays Sets\03.Matrix shuffling\bin\Debug\03.Matrix shuffling.exe
+D:\SoftUni\Advanced C#\HomeWork\2.Multidimensional Arrays Sets Dictionaries\2.Multidimensional Arrays Sets\03.Matrix shuffling\bin\Debug\03.Matrix shuffling.pdb
+D:\SoftUni\Advanced C#\HomeWork\2.Multidimensional Arrays Sets Dictionaries\2.Multidimensional Arrays Sets\03.Matrix shuffling\obj\Debug\03.Matrix shuffling.csprojResolveAssemblyReference.cache
+C:\SoftUni\Advanced C#\HomeWork\2.Multidimensional\2.Multidimensional Arrays Sets\03.Matrix shuffling\bin\Debug\03.Matrix shuffling.exe.config
+C:\SoftUni\Advanced C#\HomeWork\2.Multidimensional\2.Multidimensional Arrays Sets\03.Matrix shuffling\obj\Debug\03.Matrix shuffling.exe
+C:\SoftUni\Advanced C#\HomeWork\2.Multidimensional\2.Multidimensional Arrays Sets\03.Matrix shuffling\obj\Debug\03.Matrix shuffling.pdb

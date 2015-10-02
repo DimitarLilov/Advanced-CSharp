@@ -1,0 +1,5 @@
+C:\SoftUni\Advanced C#\HomeWork\4.Strings And Text Processing\Strings And Text Processing\03.Count Substring Occurrences\bin\Debug\03.Count Substring Occurrences.exe.config
+C:\SoftUni\Advanced C#\HomeWork\4.Strings And Text Processing\Strings And Text Processing\03.Count Substring Occurrences\bin\Debug\03.Count Substring Occurrences.exe
+C:\SoftUni\Advanced C#\HomeWork\4.Strings And Text Processing\Strings And Text Processing\03.Count Substring Occurrences\bin\Debug\03.Count Substring Occurrences.pdb
+C:\SoftUni\Advanced C#\HomeWork\4.Strings And Text Processing\Strings And Text Processing\03.Count Substring Occurrences\obj\Debug\03.Count Substring Occurrences.exe
+C:\SoftUni\Advanced C#\HomeWork\4.Strings And Text Processing\Strings And Text Processing\03.Count Substring Occurrences\obj\Debug\03.Count Substring Occurrences.pdb

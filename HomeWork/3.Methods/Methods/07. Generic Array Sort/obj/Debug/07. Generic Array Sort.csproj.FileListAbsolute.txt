@@ -1,0 +1,5 @@
+D:\SoftUni\Advanced C#\HomeWork\3.Methods\Methods\07. Generic Array Sort\bin\Debug\_07.Generic_Array_Sort.exe.config
+D:\SoftUni\Advanced C#\HomeWork\3.Methods\Methods\07. Generic Array Sort\bin\Debug\_07.Generic_Array_Sort.exe
+D:\SoftUni\Advanced C#\HomeWork\3.Methods\Methods\07. Generic Array Sort\bin\Debug\_07.Generic_Array_Sort.pdb
+D:\SoftUni\Advanced C#\HomeWork\3.Methods\Methods\07. Generic Array Sort\obj\Debug\_07.Generic_Array_Sort.exe
+D:\SoftUni\Advanced C#\HomeWork\3.Methods\Methods\07. Generic Array Sort\obj\Debug\_07.Generic_Array_Sort.pdb

@@ -1,0 +1,5 @@
+C:\SoftUni\Advanced C#\HomeWork\6.Streams And Files\Streams And Files\04.Copy Binary File\bin\Debug\04.Copy Binary File.exe.config
+C:\SoftUni\Advanced C#\HomeWork\6.Streams And Files\Streams And Files\04.Copy Binary File\bin\Debug\04.Copy Binary File.exe
+C:\SoftUni\Advanced C#\HomeWork\6.Streams And Files\Streams And Files\04.Copy Binary File\bin\Debug\04.Copy Binary File.pdb
+C:\SoftUni\Advanced C#\HomeWork\6.Streams And Files\Streams And Files\04.Copy Binary File\obj\Debug\04.Copy Binary File.exe
+C:\SoftUni\Advanced C#\HomeWork\6.Streams And Files\Streams And Files\04.Copy Binary File\obj\Debug\04.Copy Binary File.pdb

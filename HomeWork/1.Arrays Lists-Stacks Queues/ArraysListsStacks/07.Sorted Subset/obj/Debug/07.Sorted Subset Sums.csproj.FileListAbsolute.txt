@@ -1,0 +1,9 @@
+C:\Users\Dimitar\Documents\SoftUni\Fundamental Level\Advanced C#\HomeWork\1. Advanced CSharp Arrays Lists-Stacks Queues\ArraysListsStacks\07.Sorted Subset\bin\Debug\07.Sorted Subset.exe.config
+C:\Users\Dimitar\Documents\SoftUni\Fundamental Level\Advanced C#\HomeWork\1. Advanced CSharp Arrays Lists-Stacks Queues\ArraysListsStacks\07.Sorted Subset\obj\Debug\07.Sorted Subset Sums.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\SoftUni\Fundamental Level\Advanced C#\HomeWork\1. Advanced CSharp Arrays Lists-Stacks Queues\ArraysListsStacks\07.Sorted Subset\bin\Debug\07.Sorted Subset.exe
+C:\Users\Dimitar\Documents\SoftUni\Fundamental Level\Advanced C#\HomeWork\1. Advanced CSharp Arrays Lists-Stacks Queues\ArraysListsStacks\07.Sorted Subset\bin\Debug\07.Sorted Subset.pdb
+C:\Users\Dimitar\Documents\SoftUni\Fundamental Level\Advanced C#\HomeWork\1. Advanced CSharp Arrays Lists-Stacks Queues\ArraysListsStacks\07.Sorted Subset\obj\Debug\07.Sorted Subset.exe
+C:\Users\Dimitar\Documents\SoftUni\Fundamental Level\Advanced C#\HomeWork\1. Advanced CSharp Arrays Lists-Stacks Queues\ArraysListsStacks\07.Sorted Subset\obj\Debug\07.Sorted Subset.pdb
+C:\SoftUni\Advanced C#\HomeWork\1.Arrays Lists-Stacks Queues\ArraysListsStacks\07.Sorted Subset\bin\Debug\07.Sorted Subset.exe.config
+C:\SoftUni\Advanced C#\HomeWork\1.Arrays Lists-Stacks Queues\ArraysListsStacks\07.Sorted Subset\obj\Debug\07.Sorted Subset.exe
+C:\SoftUni\Advanced C#\HomeWork\1.Arrays Lists-Stacks Queues\ArraysListsStacks\07.Sorted Subset\obj\Debug\07.Sorted Subset.pdb

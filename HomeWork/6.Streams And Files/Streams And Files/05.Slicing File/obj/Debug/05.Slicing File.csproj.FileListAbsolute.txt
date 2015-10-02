@@ -1,0 +1,6 @@
+C:\SoftUni\Advanced C#\HomeWork\6.Streams And Files\Streams And Files\05.Slicing File\bin\Debug\05.Slicing File.exe.config
+C:\SoftUni\Advanced C#\HomeWork\6.Streams And Files\Streams And Files\05.Slicing File\bin\Debug\05.Slicing File.exe
+C:\SoftUni\Advanced C#\HomeWork\6.Streams And Files\Streams And Files\05.Slicing File\bin\Debug\05.Slicing File.pdb
+C:\SoftUni\Advanced C#\HomeWork\6.Streams And Files\Streams And Files\05.Slicing File\obj\Debug\05.Slicing File.csprojResolveAssemblyReference.cache
+C:\SoftUni\Advanced C#\HomeWork\6.Streams And Files\Streams And Files\05.Slicing File\obj\Debug\05.Slicing File.exe
+C:\SoftUni\Advanced C#\HomeWork\6.Streams And Files\Streams And Files\05.Slicing File\obj\Debug\05.Slicing File.pdb

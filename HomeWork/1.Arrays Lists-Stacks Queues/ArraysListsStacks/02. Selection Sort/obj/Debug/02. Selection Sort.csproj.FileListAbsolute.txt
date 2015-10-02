@@ -1,0 +1,12 @@
+C:\Users\Dimitar\Documents\SoftUni\Fundamental Level\Advanced C#\HomeWork\1. Advanced CSharp Arrays Lists-Stacks Queues\ArraysListsStacks\02. Selection Sort\bin\Debug\_02.Selection_Sort.exe.config
+C:\Users\Dimitar\Documents\SoftUni\Fundamental Level\Advanced C#\HomeWork\1. Advanced CSharp Arrays Lists-Stacks Queues\ArraysListsStacks\02. Selection Sort\bin\Debug\_02.Selection_Sort.exe
+C:\Users\Dimitar\Documents\SoftUni\Fundamental Level\Advanced C#\HomeWork\1. Advanced CSharp Arrays Lists-Stacks Queues\ArraysListsStacks\02. Selection Sort\bin\Debug\_02.Selection_Sort.pdb
+C:\Users\Dimitar\Documents\SoftUni\Fundamental Level\Advanced C#\HomeWork\1. Advanced CSharp Arrays Lists-Stacks Queues\ArraysListsStacks\02. Selection Sort\obj\Debug\_02.Selection_Sort.exe
+C:\Users\Dimitar\Documents\SoftUni\Fundamental Level\Advanced C#\HomeWork\1. Advanced CSharp Arrays Lists-Stacks Queues\ArraysListsStacks\02. Selection Sort\obj\Debug\_02.Selection_Sort.pdb
+C:\Users\Dimitar\Documents\SoftUni\Fundamental Level\Advanced C#\HomeWork\1. Advanced CSharp Arrays Lists-Stacks Queues\ArraysListsStacks\02. Selection Sort\obj\Debug\02. Selection Sort.csprojResolveAssemblyReference.cache
+C:\SoftUni\Advanced C#\HomeWork\1.Arrays Lists-Stacks Queues\ArraysListsStacks\02. Selection Sort\bin\Debug\_02.Selection_Sort.exe.config
+C:\SoftUni\Advanced C#\HomeWork\1.Arrays Lists-Stacks Queues\ArraysListsStacks\02. Selection Sort\obj\Debug\_02.Selection_Sort.exe
+C:\SoftUni\Advanced C#\HomeWork\1.Arrays Lists-Stacks Queues\ArraysListsStacks\02. Selection Sort\obj\Debug\_02.Selection_Sort.pdb
+C:\SoftUni\Advanced C#\HomeWork\1.Arrays Lists-Stacks Queues\ArraysListsStacks\02. Selection Sort\bin\Debug\_02.Selection_Sort.exe
+C:\SoftUni\Advanced C#\HomeWork\1.Arrays Lists-Stacks Queues\ArraysListsStacks\02. Selection Sort\bin\Debug\_02.Selection_Sort.pdb
+C:\SoftUni\Advanced C#\HomeWork\1.Arrays Lists-Stacks Queues\ArraysListsStacks\02. Selection Sort\obj\Debug\02. Selection Sort.csprojResolveAssemblyReference.cache

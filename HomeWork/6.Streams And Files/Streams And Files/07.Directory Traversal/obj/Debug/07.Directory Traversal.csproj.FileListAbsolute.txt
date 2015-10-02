@@ -1,0 +1,5 @@
+C:\SoftUni\Advanced C#\HomeWork\6.Streams And Files\Streams And Files\07.Directory Traversal\bin\Debug\07.Directory Traversal.exe.config
+C:\SoftUni\Advanced C#\HomeWork\6.Streams And Files\Streams And Files\07.Directory Traversal\bin\Debug\07.Directory Traversal.exe
+C:\SoftUni\Advanced C#\HomeWork\6.Streams And Files\Streams And Files\07.Directory Traversal\bin\Debug\07.Directory Traversal.pdb
+C:\SoftUni\Advanced C#\HomeWork\6.Streams And Files\Streams And Files\07.Directory Traversal\obj\Debug\07.Directory Traversal.exe
+C:\SoftUni\Advanced C#\HomeWork\6.Streams And Files\Streams And Files\07.Directory Traversal\obj\Debug\07.Directory Traversal.pdb

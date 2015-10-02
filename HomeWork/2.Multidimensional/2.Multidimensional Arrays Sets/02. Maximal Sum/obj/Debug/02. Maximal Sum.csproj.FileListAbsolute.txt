@@ -1,0 +1,9 @@
+D:\SoftUni\Advanced C#\HomeWork\2.Multidimensional Arrays Sets Dictionaries\2.Multidimensiona lArrays Sets\02. Maximal Sum\bin\Debug\_02.Maximal_Sum.exe.config
+D:\SoftUni\Advanced C#\HomeWork\2.Multidimensional Arrays Sets Dictionaries\2.Multidimensiona lArrays Sets\02. Maximal Sum\bin\Debug\_02.Maximal_Sum.exe
+D:\SoftUni\Advanced C#\HomeWork\2.Multidimensional Arrays Sets Dictionaries\2.Multidimensiona lArrays Sets\02. Maximal Sum\bin\Debug\_02.Maximal_Sum.pdb
+D:\SoftUni\Advanced C#\HomeWork\2.Multidimensional Arrays Sets Dictionaries\2.Multidimensiona lArrays Sets\02. Maximal Sum\obj\Debug\02. Maximal Sum.csprojResolveAssemblyReference.cache
+D:\SoftUni\Advanced C#\HomeWork\2.Multidimensional Arrays Sets Dictionaries\2.Multidimensiona lArrays Sets\02. Maximal Sum\obj\Debug\_02.Maximal_Sum.exe
+D:\SoftUni\Advanced C#\HomeWork\2.Multidimensional Arrays Sets Dictionaries\2.Multidimensiona lArrays Sets\02. Maximal Sum\obj\Debug\_02.Maximal_Sum.pdb
+C:\SoftUni\Advanced C#\HomeWork\2.Multidimensional\2.Multidimensional Arrays Sets\02. Maximal Sum\bin\Debug\_02.Maximal_Sum.exe.config
+C:\SoftUni\Advanced C#\HomeWork\2.Multidimensional\2.Multidimensional Arrays Sets\02. Maximal Sum\obj\Debug\_02.Maximal_Sum.exe
+C:\SoftUni\Advanced C#\HomeWork\2.Multidimensional\2.Multidimensional Arrays Sets\02. Maximal Sum\obj\Debug\_02.Maximal_Sum.pdb

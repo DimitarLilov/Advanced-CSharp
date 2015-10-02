@@ -1,0 +1,5 @@
+C:\SoftUni\Advanced C#\HomeWork\6.Streams And Files\Streams And Files\03.Word Count\bin\Debug\03.Word Count.exe.config
+C:\SoftUni\Advanced C#\HomeWork\6.Streams And Files\Streams And Files\03.Word Count\bin\Debug\03.Word Count.exe
+C:\SoftUni\Advanced C#\HomeWork\6.Streams And Files\Streams And Files\03.Word Count\bin\Debug\03.Word Count.pdb
+C:\SoftUni\Advanced C#\HomeWork\6.Streams And Files\Streams And Files\03.Word Count\obj\Debug\03.Word Count.exe
+C:\SoftUni\Advanced C#\HomeWork\6.Streams And Files\Streams And Files\03.Word Count\obj\Debug\03.Word Count.pdb

@@ -1,0 +1,5 @@
+C:\SoftUni\Advanced C#\HomeWork\4.Strings And Text Processing\Strings And Text Processing\02. StringLength\bin\Debug\_02.StringLength.exe.config
+C:\SoftUni\Advanced C#\HomeWork\4.Strings And Text Processing\Strings And Text Processing\02. StringLength\bin\Debug\_02.StringLength.exe
+C:\SoftUni\Advanced C#\HomeWork\4.Strings And Text Processing\Strings And Text Processing\02. StringLength\bin\Debug\_02.StringLength.pdb
+C:\SoftUni\Advanced C#\HomeWork\4.Strings And Text Processing\Strings And Text Processing\02. StringLength\obj\Debug\_02.StringLength.exe
+C:\SoftUni\Advanced C#\HomeWork\4.Strings And Text Processing\Strings And Text Processing\02. StringLength\obj\Debug\_02.StringLength.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\Advanced C#\HomeWork\2.Multidimensional Arrays Sets Dictionaries\2.Multidimensional Arrays Sets\07. Phonebook\bin\Debug\_07.Phonebook.exe.config
+D:\SoftUni\Advanced C#\HomeWork\2.Multidimensional Arrays Sets Dictionaries\2.Multidimensional Arrays Sets\07. Phonebook\bin\Debug\_07.Phonebook.exe
+D:\SoftUni\Advanced C#\HomeWork\2.Multidimensional Arrays Sets Dictionaries\2.Multidimensional Arrays Sets\07. Phonebook\bin\Debug\_07.Phonebook.pdb
+D:\SoftUni\Advanced C#\HomeWork\2.Multidimensional Arrays Sets Dictionaries\2.Multidimensional Arrays Sets\07. Phonebook\obj\Debug\_07.Phonebook.exe
+D:\SoftUni\Advanced C#\HomeWork\2.Multidimensional Arrays Sets Dictionaries\2.Multidimensional Arrays Sets\07. Phonebook\obj\Debug\_07.Phonebook.pdb
+C:\SoftUni\Advanced C#\HomeWork\2.Multidimensional\2.Multidimensional Arrays Sets\07. Phonebook\bin\Debug\_07.Phonebook.exe.config
+C:\SoftUni\Advanced C#\HomeWork\2.Multidimensional\2.Multidimensional Arrays Sets\07. Phonebook\obj\Debug\_07.Phonebook.exe
+C:\SoftUni\Advanced C#\HomeWork\2.Multidimensional\2.Multidimensional Arrays Sets\07. Phonebook\obj\Debug\_07.Phonebook.pdb
+C:\SoftUni\Advanced C#\HomeWork\2.Multidimensional\2.Multidimensional Arrays Sets\07. Phonebook\bin\Debug\_07.Phonebook.exe
+C:\SoftUni\Advanced C#\HomeWork\2.Multidimensional\2.Multidimensional Arrays Sets\07. Phonebook\bin\Debug\_07.Phonebook.pdb
+C:\SoftUni\Advanced C#\HomeWork\2.Multidimensional\2.Multidimensional Arrays Sets\07. Phonebook\obj\Debug\07. Phonebook.csprojResolveAssemblyReference.cache

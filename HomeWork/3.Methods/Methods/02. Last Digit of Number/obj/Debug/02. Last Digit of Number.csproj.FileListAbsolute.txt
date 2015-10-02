@@ -1,0 +1,6 @@
+D:\SoftUni\Advanced C#\HomeWork\3.Methods\Methods\02. Last Digit of Number\bin\Debug\_02.Last_Digit_of_Number.exe.config
+D:\SoftUni\Advanced C#\HomeWork\3.Methods\Methods\02. Last Digit of Number\bin\Debug\_02.Last_Digit_of_Number.exe
+D:\SoftUni\Advanced C#\HomeWork\3.Methods\Methods\02. Last Digit of Number\bin\Debug\_02.Last_Digit_of_Number.pdb
+D:\SoftUni\Advanced C#\HomeWork\3.Methods\Methods\02. Last Digit of Number\obj\Debug\02. Last Digit of Number.csprojResolveAssemblyReference.cache
+D:\SoftUni\Advanced C#\HomeWork\3.Methods\Methods\02. Last Digit of Number\obj\Debug\_02.Last_Digit_of_Number.exe
+D:\SoftUni\Advanced C#\HomeWork\3.Methods\Methods\02. Last Digit of Number\obj\Debug\_02.Last_Digit_of_Number.pdb

@@ -1,0 +1,1 @@
+C:\Users\Dimitar\Documents\SoftUni\Fundamental Level\Advanced C#\HomeWork\1. Advanced CSharp Arrays Lists-Stacks Queues\ArraysListsStacks\07.Sorted Subset\bin\Debug\07.Sorted Subset.exe.config

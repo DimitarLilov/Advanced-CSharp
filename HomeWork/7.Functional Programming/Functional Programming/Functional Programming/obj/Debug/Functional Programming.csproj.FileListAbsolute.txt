@@ -1,0 +1,6 @@
+C:\SoftUni\Advanced C#\HomeWork\7.Functional Programming\Functional Programming\Functional Programming\bin\Debug\Functional Programming.exe.config
+C:\SoftUni\Advanced C#\HomeWork\7.Functional Programming\Functional Programming\Functional Programming\bin\Debug\Functional Programming.exe
+C:\SoftUni\Advanced C#\HomeWork\7.Functional Programming\Functional Programming\Functional Programming\bin\Debug\Functional Programming.pdb
+C:\SoftUni\Advanced C#\HomeWork\7.Functional Programming\Functional Programming\Functional Programming\obj\Debug\Functional Programming.csprojResolveAssemblyReference.cache
+C:\SoftUni\Advanced C#\HomeWork\7.Functional Programming\Functional Programming\Functional Programming\obj\Debug\Functional Programming.exe
+C:\SoftUni\Advanced C#\HomeWork\7.Functional Programming\Functional Programming\Functional Programming\obj\Debug\Functional Programming.pdb

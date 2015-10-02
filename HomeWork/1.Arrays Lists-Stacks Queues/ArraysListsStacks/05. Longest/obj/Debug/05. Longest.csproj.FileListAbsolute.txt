@@ -1,0 +1,1 @@
+C:\Users\Dimitar\Documents\SoftUni\Fundamental Level\Advanced C#\HomeWork\1. Advanced CSharp Arrays Lists-Stacks Queues\ArraysListsStacks\05. Longest\bin\Debug\_05.Longest.exe.config

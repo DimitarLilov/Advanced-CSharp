@@ -1,0 +1,9 @@
+C:\Users\Dimitar\Documents\SoftUni\Fundamental Level\Advanced C#\HomeWork\1. Advanced CSharp Arrays Lists-Stacks Queues\ArraysListsStacks\05. Longest\bin\Debug\_05.Longest.exe.config
+C:\Users\Dimitar\Documents\SoftUni\Fundamental Level\Advanced C#\HomeWork\1. Advanced CSharp Arrays Lists-Stacks Queues\ArraysListsStacks\05. Longest\bin\Debug\_05.Longest.exe
+C:\Users\Dimitar\Documents\SoftUni\Fundamental Level\Advanced C#\HomeWork\1. Advanced CSharp Arrays Lists-Stacks Queues\ArraysListsStacks\05. Longest\bin\Debug\_05.Longest.pdb
+C:\Users\Dimitar\Documents\SoftUni\Fundamental Level\Advanced C#\HomeWork\1. Advanced CSharp Arrays Lists-Stacks Queues\ArraysListsStacks\05. Longest\obj\Debug\05. Longest Increasing Sequence.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\SoftUni\Fundamental Level\Advanced C#\HomeWork\1. Advanced CSharp Arrays Lists-Stacks Queues\ArraysListsStacks\05. Longest\obj\Debug\_05.Longest.exe
+C:\Users\Dimitar\Documents\SoftUni\Fundamental Level\Advanced C#\HomeWork\1. Advanced CSharp Arrays Lists-Stacks Queues\ArraysListsStacks\05. Longest\obj\Debug\_05.Longest.pdb
+C:\SoftUni\Advanced C#\HomeWork\1.Arrays Lists-Stacks Queues\ArraysListsStacks\05. Longest\bin\Debug\_05.Longest.exe.config
+C:\SoftUni\Advanced C#\HomeWork\1.Arrays Lists-Stacks Queues\ArraysListsStacks\05. Longest\obj\Debug\_05.Longest.exe
+C:\SoftUni\Advanced C#\HomeWork\1.Arrays Lists-Stacks Queues\ArraysListsStacks\05. Longest\obj\Debug\_05.Longest.pdb

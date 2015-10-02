@@ -1,0 +1,5 @@
+C:\SoftUni\Advanced C#\HomeWork\4.Strings And Text Processing\Strings And Text Processing\04.Text Filter\bin\Debug\04.Text Filter.exe.config
+C:\SoftUni\Advanced C#\HomeWork\4.Strings And Text Processing\Strings And Text Processing\04.Text Filter\bin\Debug\04.Text Filter.exe
+C:\SoftUni\Advanced C#\HomeWork\4.Strings And Text Processing\Strings And Text Processing\04.Text Filter\bin\Debug\04.Text Filter.pdb
+C:\SoftUni\Advanced C#\HomeWork\4.Strings And Text Processing\Strings And Text Processing\04.Text Filter\obj\Debug\04.Text Filter.exe
+C:\SoftUni\Advanced C#\HomeWork\4.Strings And Text Processing\Strings And Text Processing\04.Text Filter\obj\Debug\04.Text Filter.pdb

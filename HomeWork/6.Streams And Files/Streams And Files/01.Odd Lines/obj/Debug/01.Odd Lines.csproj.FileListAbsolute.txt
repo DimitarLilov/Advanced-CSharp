@@ -1,0 +1,6 @@
+C:\SoftUni\Advanced C#\HomeWork\6.Streams And Files\Streams And Files\01.Odd Lines\bin\Debug\01.Odd Lines.exe.config
+C:\SoftUni\Advanced C#\HomeWork\6.Streams And Files\Streams And Files\01.Odd Lines\bin\Debug\01.Odd Lines.exe
+C:\SoftUni\Advanced C#\HomeWork\6.Streams And Files\Streams And Files\01.Odd Lines\bin\Debug\01.Odd Lines.pdb
+C:\SoftUni\Advanced C#\HomeWork\6.Streams And Files\Streams And Files\01.Odd Lines\obj\Debug\01.Odd Lines.csprojResolveAssemblyReference.cache
+C:\SoftUni\Advanced C#\HomeWork\6.Streams And Files\Streams And Files\01.Odd Lines\obj\Debug\01.Odd Lines.exe
+C:\SoftUni\Advanced C#\HomeWork\6.Streams And Files\Streams And Files\01.Odd Lines\obj\Debug\01.Odd Lines.pdb

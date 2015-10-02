@@ -1,0 +1,5 @@
+C:\SoftUni\Advanced C#\HomeWork\6.Streams And Files\Streams And Files\06.Zipping Sliced Files\bin\Debug\06.Zipping Sliced Files.exe.config
+C:\SoftUni\Advanced C#\HomeWork\6.Streams And Files\Streams And Files\06.Zipping Sliced Files\bin\Debug\06.Zipping Sliced Files.exe
+C:\SoftUni\Advanced C#\HomeWork\6.Streams And Files\Streams And Files\06.Zipping Sliced Files\bin\Debug\06.Zipping Sliced Files.pdb
+C:\SoftUni\Advanced C#\HomeWork\6.Streams And Files\Streams And Files\06.Zipping Sliced Files\obj\Debug\06.Zipping Sliced Files.exe
+C:\SoftUni\Advanced C#\HomeWork\6.Streams And Files\Streams And Files\06.Zipping Sliced Files\obj\Debug\06.Zipping Sliced Files.pdb

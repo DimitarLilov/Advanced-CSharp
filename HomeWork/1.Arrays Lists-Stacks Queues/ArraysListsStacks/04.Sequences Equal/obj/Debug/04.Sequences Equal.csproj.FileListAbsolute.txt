@@ -1,0 +1,9 @@
+C:\Users\Dimitar\Documents\SoftUni\Fundamental Level\Advanced C#\HomeWork\1. Advanced CSharp Arrays Lists-Stacks Queues\ArraysListsStacks\04.Sequences Equal\bin\Debug\04.Sequences Equal.exe.config
+C:\Users\Dimitar\Documents\SoftUni\Fundamental Level\Advanced C#\HomeWork\1. Advanced CSharp Arrays Lists-Stacks Queues\ArraysListsStacks\04.Sequences Equal\bin\Debug\04.Sequences Equal.exe
+C:\Users\Dimitar\Documents\SoftUni\Fundamental Level\Advanced C#\HomeWork\1. Advanced CSharp Arrays Lists-Stacks Queues\ArraysListsStacks\04.Sequences Equal\bin\Debug\04.Sequences Equal.pdb
+C:\Users\Dimitar\Documents\SoftUni\Fundamental Level\Advanced C#\HomeWork\1. Advanced CSharp Arrays Lists-Stacks Queues\ArraysListsStacks\04.Sequences Equal\obj\Debug\04.Sequences Equal.exe
+C:\Users\Dimitar\Documents\SoftUni\Fundamental Level\Advanced C#\HomeWork\1. Advanced CSharp Arrays Lists-Stacks Queues\ArraysListsStacks\04.Sequences Equal\obj\Debug\04.Sequences Equal.pdb
+C:\Users\Dimitar\Documents\SoftUni\Fundamental Level\Advanced C#\HomeWork\1. Advanced CSharp Arrays Lists-Stacks Queues\ArraysListsStacks\04.Sequences Equal\obj\Debug\04.Sequences Equal.csprojResolveAssemblyReference.cache
+C:\SoftUni\Advanced C#\HomeWork\1.Arrays Lists-Stacks Queues\ArraysListsStacks\04.Sequences Equal\bin\Debug\04.Sequences Equal.exe.config
+C:\SoftUni\Advanced C#\HomeWork\1.Arrays Lists-Stacks Queues\ArraysListsStacks\04.Sequences Equal\obj\Debug\04.Sequences Equal.exe
+C:\SoftUni\Advanced C#\HomeWork\1.Arrays Lists-Stacks Queues\ArraysListsStacks\04.Sequences Equal\obj\Debug\04.Sequences Equal.pdb
